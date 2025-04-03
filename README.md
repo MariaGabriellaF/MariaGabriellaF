@@ -1,8 +1,17 @@
 ### Seja bem-vindo ao meu Github, me chamo Maria Gabriella
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" align="center" alt="Java" height="30" width="40vw" />
-  <img align="right" alt="Gengar-pic" height="150" style="border-radius:50px;" src="https://archives.bulbagarden.net/media/upload/2/21/Spr_5b_094.png">
+#### Olá, sou estudante de Sistemas de Informação na Universidade Federal da Paraíba (UFPB)!
+
+Atualmente, estou me aprofundando em **front-end** e **análise de dados**, mas já tenho experiência com **back-end**, especialmente utilizando a linguagem **Go (Golang)**. Tenho paixão por tecnologia e estou sempre buscando aprender novas ferramentas e técnicas para resolver problemas de forma eficiente e criativa.
+
+No meu GitHub, você encontrará projetos relacionados a:
+
+- Desenvolvimento **front-end** (HTML, CSS, JavaScript, React).
+- **Análise de dados** (Python, Pandas, SQL).
+- **Back-end** com **Go (Golang)**.
+
+<div style="display: flex; justify-content: space-between;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaGabriellaF&show_icons=true&theme=neon" alt="Maria Gabriella's GitHub Stats" style="width: 48%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGabriellaF&layout=compact&theme=neon" alt="Top Languages" style="width: 48%;"/>
 </div>
+
