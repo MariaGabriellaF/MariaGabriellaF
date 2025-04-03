@@ -1,14 +1,12 @@
-### Seja bem-vindo ao meu Github, me chamo Maria Gabriella
+### Seja bem-vindo ao meu GitHub! Sou Maria Gabriella
 
-#### Olá, sou estudante de Sistemas de Informação na Universidade Federal da Paraíba (UFPB)!
+#### Atualmente, sou estudante de Sistemas de Informação na Universidade Federal da Paraíba (UFPB), com grande interesse em **front-end** e **análise de dados**.
 
-Atualmente, estou me aprofundando em **front-end** e **análise de dados**, mas já tenho experiência com **back-end**, especialmente utilizando a linguagem **Go (Golang)**. Tenho paixão por tecnologia e estou sempre buscando aprender novas ferramentas e técnicas para resolver problemas de forma eficiente e criativa.
+Ao longo da minha trajetória acadêmica, venho me aprofundando nas tecnologias de **front-end**, como HTML, CSS, JavaScript e React, buscando sempre melhorar a experiência do usuário e criar interfaces dinâmicas e funcionais. 
 
-No meu GitHub, você encontrará projetos relacionados a:
+Além disso, tenho experiência com **back-end**, especialmente com a linguagem **Go (Golang)**, e estou constantemente explorando novas ferramentas e técnicas para otimizar o desenvolvimento e resolver desafios de maneira eficiente.
 
-- Desenvolvimento **front-end** (HTML, CSS, JavaScript, React).
-- **Análise de dados** (Python, Pandas, SQL).
-- **Back-end** com **Go (Golang)**.
+Estou sempre aberta a novos aprendizados e oportunidades para colaborar em projetos inovadores!
 
 <div style="display: flex; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaGabriellaF&show_icons=true&theme=neon" alt="Maria Gabriella's GitHub Stats" style="width: 48%;"/>
